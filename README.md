@@ -1,6 +1,6 @@
 ### Hello World!
 
-- 👋 I’m Kenneth Chew (@kthchew)
+- 👋 I’m Kenneth Chew
 - 🌱 I’m currently a high school student
 - 👀 I’m interested in becoming a software engineer
 - 📚 I've been learning Swift, Java, and Ruby
