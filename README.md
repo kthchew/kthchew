@@ -4,7 +4,7 @@
 - 🌱 I’m currently a high school student
 - 👀 I’m interested in becoming a software engineer
 - 📚 I've been learning Swift, Java, and Ruby
-- 🧪 Aside from programming, I think chemistry and math are both pretty cool!
+- 🧪 I like chemistry and math!
 - 😄 Pronouns: he/him
 
 <!---
