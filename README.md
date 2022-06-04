@@ -1,9 +1,10 @@
-### Hello world, I'm Kenneth Chew! 👋
+## Hello world, I'm Kenneth Chew! 👋
 
-- 🌱 High school student
+[![kthchew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kthchew)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🌱 Student
 - 👀 Interested in software engineering
-- 📚 Learning Swift, Java, and Ruby
-- 🧪 Likes chemistry and math!
+- 📚 Learning different technologies
 
 <!---
 kthchew/kthchew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
