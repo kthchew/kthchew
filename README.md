@@ -5,7 +5,7 @@ I like making stuff. Unless stated otherwise, nothing here is affiliated with an
 Here's some of my projects that I'm most fond of:
 
 - [CatCorp](https://github.com/kthchew/CatCorp) - A React app to encourage and gamify productivity by rewarding students for submitting assignments in their Canvas LMS.
-  - Other major contributors (in no particular order): @jasonlin15, @MaximilianMeiler, @S-Christensen
+  - Other major contributors (in no particular order): [Jason Lin](https://github.com/jasonlin15), [Maximilian Meiler](https://github.com/MaximilianMeiler), [Samuel Christensen](https://github.com/S-Christensen)
 - [AMBerDisk](https://amberdisk.kpchew.com/) - A macOS app to run actions or block disks on automount, published on the App Store.
 - [ao3-rss](https://github.com/kthchew/ao3-rss) - A Flask app to generate Atom/RSS feeds for works on AO3.
 
