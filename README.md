@@ -1,6 +1,17 @@
-## Hello world, I'm Kenneth Chew! 👋
+## About Me
 
-[![kthchew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kthchew&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I like making stuff. Unless stated otherwise, nothing here is affiliated with any of my school(s) and/or employer(s), whether from the past or present.
+
+Here's some of my projects that I'm most fond of:
+
+- [CatCorp](https://github.com/kthchew/CatCorp) - A React app to encourage and gamify productivity by rewarding students for submitting assignments in their Canvas LMS.
+  - Other major contributors (in no particular order): @jasonlin15, @MaximilianMeiler, @S-Christensen
+- [AMBerDisk](https://amberdisk.kpchew.com/) - A macOS app to run actions or block disks on automount, published on the App Store.
+- [ao3-rss](https://github.com/kthchew/ao3-rss) - A Flask app to generate Atom/RSS feeds for works on AO3.
+
+I also like [contributing to other open source projects](https://github.com/search?q=author%3Akthchew+is%3Apr+-user%3Akthchew&type=pullrequests).
+
+For my professional work, see my [LinkedIn](https://www.linkedin.com/in/kpchew/).
 
 <!---
 kthchew/kthchew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
